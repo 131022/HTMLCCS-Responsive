@@ -104,12 +104,10 @@ footer {
   }
 
   .title {
-    margin: 15px 0px 5px;
+    width: 100%;
   }
 
   footer {
-    height: 50px;
     width: 100%;
-    background-color: #aaa;
   }
 }
