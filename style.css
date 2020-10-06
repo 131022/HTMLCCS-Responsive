@@ -70,14 +70,11 @@ footer {
   main {
     width: 100%;
     display: block;
-    margin-top: 50px;
-    margin-bottom: 50px;
   }
 
   .box {
     width: 90%;
     margin-left: 30px;
-    margin-right: 30px;
     margin-bottom: 20px;
   }
 
